@@ -3,6 +3,7 @@ package co.com.bdb.automation.task;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.DoubleClick;
+import net.serenitybdd.screenplay.actions.Scroll;
 
 import static co.com.bdb.automation.ui.WebPage.doubleclickButton;
 import static net.serenitybdd.screenplay.Tasks.instrumented;
